@@ -328,45 +328,45 @@ toko_online_kelompok_ibnu/
 ## 📱 Screenshots
 
 ### Landing Page 
-![Landing Page](first_look_landing_page.png)
+![Landing Page](assets/images/screenshoot/first_look_landing_page.png)
 - Hero section dengan CTA yang menarik
 - Featured products dan statistik
 - Responsive design untuk mobile
 
 ### Admin Dashboard
-![Admin Dashboard](admin_dashboard.png)
+![Admin Dashboard](assets/images/screenshoot/admin_dashboard.png)
 - Real-time statistics dan charts
 - Quick actions dan shortcuts
 - Clean dan intuitive interface
 
 ### Customer Dashboard
-![Customer Dashboard](customers_dashboard.png)
+![Customer Dashboard](assets/images/screenshoot/customers_dashboard.png)
 - Quick access ke features
 - Recent orders dan recommendations
 
 ### Product Management
-![Product Management](product_management.png)
-![Add Product](add_product.png)
-![Delete_product](delete_product.png)
-![Reports](reports.png)
+![Product Management](assets/images/screenshoot/product_management.png)
+![Add Product](assets/images/screenshoot/add_product.png)
+![Delete_product](assets/images/screenshoot/delete_product.png)
+![Reports](assets/images/screenshoot/reports.png)
 - Advanced filtering dan search
 - Bulk operations
 - Image upload dengan preview
 
 
 ### Shopping Cart
-![Shopping cart](cart_shopping.png)
+![Shopping cart](assets/images/screenshoot/cart_shopping.png)
 - Real-time quantity updates
 - Shipping calculator
 
 ### History Orders
-![History Orders](history_orders.png)
+![History Orders](assets/images/screenshoot/history_orders.png)
 
 ## Customers view product
-![Customer view product](customer_view_product.png)
+![Customer view product](assets/images/screenshoot/customers_view_product.png)
 
 ## Checkout
-![Checkout](checkout.png)
+![Checkout](assets/images/screenshoot/checkout.png)
 
 ## 🚀 Fitur Lanjutan
 
