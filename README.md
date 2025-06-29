@@ -487,7 +487,7 @@ Project ini dikembangkan sebagai bagian dari UAS Pemrograman Web Lanjut - Sistem
 
 ---
 
-## 📞 Support - 088802972620
+## 📞 Support - +62 088802972620 (Ibnu Hanafi Assalam)
 
 Jika mengalami kesulitan dalam instalasi atau penggunaan:
 
